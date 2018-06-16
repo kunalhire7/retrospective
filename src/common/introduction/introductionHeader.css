@@ -1,0 +1,12 @@
+.organization__form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.organization__form form {
+    margin-top: 20px;
+    min-width: 100%;
+}
