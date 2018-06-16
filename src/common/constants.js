@@ -1,5 +1,6 @@
 export const paths = {
-    DASHBOARD: '/'
+    HOME: '/',
+    DASHBOARD: '/dashboard'
   };
 
   export const appConstants = {
